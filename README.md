@@ -81,10 +81,10 @@ Want to add a new sport or API? Let’s discuss in Discussions!
 Official Websites
 Explore OKSport’s ecosystem for sports analytics, betting, and gear:
 
-🌐 OKSport UK - Premium sports equipment and betting insights.
-🌐 OKSport Malaysia - Regional hub for sports analytics.
-🌐 OKSport One - Unified platform for global fans.
-🌐 OKSport Cloud - Cloud-based analytics and APIs.
+🌐 https://OKSport.uk - Premium sports equipment and betting insights.
+🌐 https://OKSport.my - Regional hub for sports analytics.
+🌐 https://OKSport.one - Unified platform for global fans.
+🌐 https://OKSport.cloud - Cloud-based analytics and APIs.
 
 Note: OKSport UK offers training kits and vests, perfect for fans and athletes.
 Contact
