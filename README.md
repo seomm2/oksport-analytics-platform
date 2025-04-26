@@ -89,7 +89,7 @@ Explore OKSport’s ecosystem for sports analytics, betting, and gear:
 Note: OKSport UK offers training kits and vests, perfect for fans and athletes.
 Contact
 
-Email: support@oksport.com
+Email: support@oksport.uk
 GitHub Issues: Report bugs or suggest features
 X Platform: Follow us @OKSportAnalytics for 2025 Europa League updates
 Community: Join our Discussions
